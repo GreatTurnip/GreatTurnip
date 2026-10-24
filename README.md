@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160E2B,35:663399,70:FF5E9A,100:FFB86C&height=220&section=header&text=ADIB%20ABRAR&fontSize=48&fontColor=FFF4E6&fontAlignY=38&desc=夜明けまで%20%E2%80%A2%20building%20under%20neon%20skies&descAlignY=60&descSize=16" width="100%" alt="Retro anime sunset banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22,25&height=190&section=header&text=Konnichiwa,%20I'm%20Adib%20Abrar%20🌸&fontSize=36&fontAlignY=38&desc=CS%20student%20%E2%80%A2%20curious%20builder%20%E2%80%A2%20retro%20anime%20dreamer&descAlignY=58&descAlign=50&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,26,27&height=190&section=header&text=Konnichiwa,%20I'm%20Adib%20Abrar%20🌸&fontSize=36&fontAlignY=38&desc=CS%20student%20%E2%80%A2%20curious%20builder%20%E2%80%A2%20retro%20anime%20dreamer&descAlignY=58&descAlign=50&theme=light" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Konnichiwa,%20I'm%20Adib%20Abrar%20🌸" alt="Retro anime-inspired profile banner" width="100%" />
+</picture>
 
 ### ✦ ようこそ — Welcome to my little corner of the internet ✦
 **CS student · curious builder · forever chasing the next idea**
@@ -14,14 +18,13 @@
 
 ## 🌆 After-hours transmission
 
-> *Somewhere between the last train home and the first light of morning,*
-> *there's always one more thing worth making.*
+> *Somewhere between the last train home and the first light of morning, there's always one more thing worth making.*
 
-I’m **Adib Abrar**. I like learning by building—whether that means exploring computer vision, sharpening algorithms, or turning a small idea into a working project.
+I’m **Adib Abrar**. I like learning by building—exploring computer vision, sharpening algorithms, and turning small ideas into working projects.
 
 - 🔭 Exploring **computer vision, backend development & creative coding**
-- 🧠 Currently leveling up in **algorithms, systems, and machine learning**
-- 🛠️ Lately: **Python · C++ · OpenCV · Flask**
+- 🧠 Leveling up in **algorithms, systems, and machine learning**
+- 🛠️ **Python · C++ · OpenCV · Flask**
 - 🌙 Fueled by curiosity, late-night playlists, and the occasional anime rewatch
 
 ## 📼 Current arc
@@ -42,10 +45,41 @@ I’m **Adib Abrar**. I like learning by building—whether that means exploring
 ![Git](https://img.shields.io/badge/Git-241A3D?style=flat-square&logo=git&logoColor=FF9D6C)
 ![Linux](https://img.shields.io/badge/Linux-241A3D?style=flat-square&logo=linux&logoColor=FFE08A)
 
+## 📊 Activity & analytics
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=GreatTurnip&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=GreatTurnip&theme=rose_pine_dawn&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=GreatTurnip&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=GreatTurnip&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=GreatTurnip&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GreatTurnip&show_icons=true&hide_border=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GreatTurnip&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GreatTurnip&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GreatTurnip&layout=compact&hide_border=true" alt="Most-used languages" />
+</picture>
+</div>
+
+## 🐍 Contribution graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreatTurnip/GreatTurnip/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreatTurnip/GreatTurnip/output/github-snake.svg" />
+    <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/GreatTurnip/GreatTurnip/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <div align="center">
 
 ### 🌸 次のエピソードをお楽しみに — to be continued…
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,35:FF5E9A,70:663399,100:160E2B&height=110&section=footer" width="100%" alt="Retro anime sunset footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22,25&height=90&section=footer" width="100%" alt="Retro anime-inspired footer" />
 
 </div>
